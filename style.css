@@ -84,7 +84,7 @@ main {
     align-items:center;
     text-align: center;
     height: 100vh;
-    background-image: url(../projetoLM/img/residentescdm.png);
+    background-image: url(https://raw.githubusercontent.com/andreimedeiros/ProjetoLM/master/img/residentescdm.png);
     background-size: cover;
 }
 
