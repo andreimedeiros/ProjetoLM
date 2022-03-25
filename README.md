@@ -5,5 +5,3 @@ Site Atual da Casa: http://casadadivinamisericordia.com.br/
 -Desenvolvimento:
 
 Casa da Divina Misericórdia https://www.figma.com/file/bs24zaYwgLXYyfGrED0lxb/CASA-DA-DIVINA-MISERICORDIA?node-id=0%3A1
-
-Visualização do Projeto(com as imagens de plano de fundo): https://wanderlanlima.github.io/projetoLM/
