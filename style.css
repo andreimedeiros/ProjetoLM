@@ -142,7 +142,7 @@ main .botao-principal:active {
 
 .imagem-secundaria {
     height: 900px;
-    background-image: linear-gradient(rgba(0, 0, 0, 1), 15%, transparent), url(../projetoLM/img/imagemcasaescura.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 1), 15%, transparent), url(https://raw.githubusercontent.com/andreimedeiros/ProjetoLM/master/img/imagemcasaescura.png);
     background-size:cover;
     background-repeat: no-repeat;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
