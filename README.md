@@ -1,6 +1,7 @@
 Este projeto visa realizar um redesign do site da Casa da Divina Misericórdia. A implementação, estruturação e concebimento será feiito ao longo da disciplina de Linguagem de Marcação, no 1º período, ministrada pelos professores Luiz Carlos e Francisco Dantas, do curso de Tecnologia em Sistemas para Internet do Instituto Federal da Paraíba (IFPB).
 
 Site Atual da Casa: http://casadadivinamisericordia.com.br/
+
 Site do projeto: https://andreimedeiros.github.io/ProjetoLM/
 
 -Desenvolvimento:
